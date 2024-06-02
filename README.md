@@ -8,12 +8,15 @@
 
 #  Hi there, I'm Ross! 👋
  _I hope your day is going well_
-
  
+<div align="center">
+<code><img width="`60" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML" title="HTML"/></code>
+</div><br>
+
 
 I am a Full Stack Web Developer and UX/UI Designer, always looking for new challenges! ⚔
 
-<div align="center" class="">
+<div align="center">
   <h3>My Toolkit + Languages</h3>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
