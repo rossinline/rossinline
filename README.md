@@ -12,6 +12,7 @@
 <div align="center">
 <a href="mailTo:rossgraycontact@gmail.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML" title="HTML"/></a>
 <a href="https://linkedin.com/in/ross-gray-8951b7260" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML" title="HTML"/></a>
+<a href="#" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="HTML" title="HTML"/></a>
 </div><br>
 
 <p>⚔ I am a Full Stack Web Developer and UX/UI Designer, always looking for new challenges! ⚔</p><br>
@@ -22,7 +23,7 @@
 
 
 
-  <h3>🧰 My Toolkit + Languages 🧰</h3><br>
+  <h3>🧰 My Toolkit + Languages 🧰</h3>
 	<img width="auto" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" title="Sass"/>
@@ -43,26 +44,29 @@
 	<img width="auto" height="30" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="Obsidian" title="Obsidian"/>
  <br><br>
-
-
-
-<a href="https://github.com/rossinline/github-readme-stats">
+ 
+ <!--Add contributions you feel you shown be preseneting in your README, and do not release github data until you have something to show, placeholder is current link for contributions-->
+<!--
+  <h3>🤝 My Contributions 🤝</h3><br>
+<a href="#">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_icons=true&theme=transparent&border_radius=8&title_color=00CCFF&text_color=FFFFFF&icon_color=008080&rank_icon=percentile&ring_color=00CCFF" />
+</a>
+<a href="#">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_icons=true&theme=transparent&border_radius=8&title_color=00CCFF&text_color=FFFFFF&icon_color=008080&rank_icon=percentile&ring_color=00CCFF" />
+</a>
+--
+<h3>📊 My GitHub Data 📊</h3><br>
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rossinline&show_icons=true&theme=transparent&border_radius=8&title_color=00CCFF&text_color=FFFFFF&icon_color=008080&rank_icon=percentile&ring_color=00CCFF" />
 </a>
-<a href="https://github.com/rossinline/convoychat">
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rossinline&layout=compact&langs_count=8&card_width=320&theme=transparent&border_radius=8&title_color=00CCFF&text_color=FFFFFF" />
 </a>
+-->
 
 
 </div>
 
-
-
-
-
-<!--
-Language data
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossinline)](https://github.com/rahulkarda/readme-components)-->
 
 <!---
 rossinline/rossinline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
