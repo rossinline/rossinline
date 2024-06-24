@@ -12,7 +12,7 @@
 <div align="center">
 <a href="mailTo:rossgraycontact@gmail.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML" title="HTML"/></a>
 <a href="https://linkedin.com/in/ross-gray-8951b7260" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML" title="HTML"/></a>
-<a href="#" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="HTML" title="HTML"/></a>
+<a href="https://rossinline.github.io/ross-gray-portfolio/" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="HTML" title="HTML"/></a>
 </div><br>
 
 <p>⚔ I am a Full Stack Web Developer and UX/UI Designer, always looking for new challenges! ⚔</p><br>
