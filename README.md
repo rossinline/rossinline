@@ -17,9 +17,9 @@
 
 <p>⚔ I am a Full Stack Web Developer and UX/UI Designer, always looking for new challenges! ⚔</p><br>
 
-<p>📋 - I am currently working on <b>A Local Desktop Offline Application 🖥</b></p>
+<p>📋 - I am currently working on <b>Devectus (See Repository below) 🖥</b></p>
 
-<p>📚 - I am currently learning <b>Git, Laravel, VueJS, ReactJS, Electron... 📚</b></p>
+<p>📚 - I am currently learning <b>Laravel, VueJS, ReactJS, Electron... 📚</b></p>
 
 
 
