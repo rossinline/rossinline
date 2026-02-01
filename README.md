@@ -10,16 +10,16 @@
  <p>I hope your day is going well</p>
  
 <div align="center">
-<a href="mailTo:rossgraycontact@gmail.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML" title="HTML"/></a>
+<a href="mailTo:info@rossgraydigital.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/e-mail-c41731?style=for-the-badge&logoColor=white" alt="E-mail" title="E-mail"/></a>
 <a href="https://linkedin.com/in/ross-gray-8951b7260" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML" title="HTML"/></a>
-<a href="https://rossinline.github.io/ross-gray-portfolio/" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="HTML" title="HTML"/></a>
+<a href="https://rossgraydigital.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/website-c41731?style=for-the-badge&logoColor=white" alt="Website" title="Website | Ross Gray Digital"/></a>
 </div><br>
 
-<p>⚔ I am a Full Stack Web Developer and UX/UI Designer, always looking for new challenges! ⚔</p><br>
+<p>⚔ I am a Full Stack Web Developer, always looking for new challenges! ⚔</p><br>
 
-<p>📋 - I am currently working on <b>Devectus, Today Social and an MTG web-portal 🖥</b></p>
+<p>📋 - I am currently working on <b>Devectus, and an MTG web-portal 🖥</b></p>
 
-<p>📚 - I am currently learning <b>Laravel, VueJS, ReactJS, Firebase... 📚</b></p>
+<p>📚 - I am currently learning <b>Laravel and Electron! 📚</b></p>
 
 
 
@@ -35,8 +35,12 @@
 	<img width="auto" height="30" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" title="JSON"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" title="npm"/>
- <img width="auto" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React"/><br>
-	<img width="auto" height="30" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" title="Vue.js"/>
+	<img width="auto" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" title="git"/>
+ <img width="auto" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React"/>
+  <img width="auto" height="30" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" title="React Router"/>
+ <img width="auto" height="30" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" title="Next JS"/><br>
+ <img width="auto" height="30" src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine JS" title="Alpine JS"/>
+	<img width="auto" height="30" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" title="Vue"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" title="Vite"/>
  <img width="auto" height="30" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" title="Webpack"/>
  	<img width="auto" height="30" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron title="Electron"/<br>
@@ -44,6 +48,9 @@
 	<img width="auto" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" title="php"/><br>
  	<img width="auto" height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL"/>
   	<img width="auto" height="30" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" title="Sqlite"/><br>
+	<img width="auto" height="30" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" title="WordPress"/>
+	<img width="auto" height="30" src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify" title="Shopify"/><br>
+	<img width="auto" height="30" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Markdown"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" title="Canva"/><br>
 	<img width="auto" height="30" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code"/>
