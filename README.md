@@ -10,8 +10,8 @@
  <p>I hope your day is going well</p>
  
 <div align="center">
-<a href="mailTo:info@rossgraydigital.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/e-mail-c41731?style=for-the-badge&logoColor=white" alt="E-mail" title="E-mail"/></a>
-<a href="https://linkedin.com/in/ross-gray-8951b7260" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML" title="HTML"/></a>
+<a href="mailTo:info@rossgraydigital.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/e-mail-c41731?style=for-the-badge&logoColor=white" alt="E-mail" title="E-mail | info@rossgraydigital.com"/></a>
+<a href="https://linkedin.com/in/ross-gray-8951b7260" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn | Ross Gray"/></a>
 <a href="https://rossgraydigital.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/website-c41731?style=for-the-badge&logoColor=white" alt="Website" title="Website | Ross Gray Digital"/></a>
 </div><br>
 
