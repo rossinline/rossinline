@@ -15,15 +15,11 @@
 <a href="https://rossgraydigital.com" target"_blank"><img width="auto" height="25" src="https://img.shields.io/badge/website-c41731?style=for-the-badge&logoColor=white" alt="Website" title="Website | Ross Gray Digital"/></a>
 </div><br>
 
-<p>⚔ I am a Full Stack Web Developer, always looking for new challenges! ⚔</p><br>
+<p>I am a Full Stack Web Developer and Digital Consultant - always looking for new challenges!</p><br>
 
-<p>📋 - I am currently working on <b>Devectus, and an MTG web-portal 🖥</b></p>
+<p>I am currently learning <b>Temporal and open-weight LLM utilisation.</b></p>
 
-<p>📚 - I am currently learning <b>Laravel and Electron! 📚</b></p>
-
-
-
-  <h3>🧰 My Toolkit + Languages 🧰</h3>
+  <h3> My Toolkit + Languages </h3>
 	<img width="auto" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS"/>
 	<img width="auto" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" title="Sass"/>
